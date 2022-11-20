@@ -10,9 +10,6 @@
 - Techs Involved - NodeJS | ExpressJS | ReactJS | React Native | MongoDB | Firebase | Moment.js | Postman | Git
 
 
-### High Level Design:
-
-- Components used in the app are Title, Form, Cities.
 
 ### Detailed Design:
 
@@ -35,12 +32,12 @@ Following are the screenshot of the application:
 - This is the landing page i.e first page.
 
 ### Login Page
-![alt text](./client/public/loginPicture.png)
-- This is the landing page i.e first page.
+![alt text](./client/public/loginPage.png)
+- This is the login page i.e first page.
 
 ### Register Page
-![alt text](./client/public/registerPicture.png)
-- This is the landing page i.e first page.
+![alt text](./client/public/registerPage.png)
+- This is the register page i.e first page.
 
 
 ## How to Run the Application:
@@ -55,7 +52,7 @@ Clone the repo and setup the application
 
 ## Application Link:
 
-Link to the Application hosted on Netlify [LINK](https://hotel-booking-hnkaj9iio-amankumar-2001.vercel.app/)
+Link to the Application hosted on Vercel [LINK](https://hotel-booking-hnkaj9iio-amankumar-2001.vercel.app/)
 
 
 
