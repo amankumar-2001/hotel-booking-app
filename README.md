@@ -1,13 +1,13 @@
 
 # Hotel-Booking-App
 
-- ➢ Full-stack project for hotel room booking with ‘website’.
-- ➢ App should be responsive with the portrait mode and placed horizontally when in landscape mode.
-- ➢ Implemented CRUD(Create Read Update and Delete) operations on various collections such as bookings, users, etc of the database.
-- ➢ Rendered rooms ‘filtered’ on the basis of its availability during selected dates, keywords, etc.
-- ➢ Implemented user authentication and ACID properties in booking of room, transaction, etc.
-- ➢ Different levels of access for normal users and user granted admin privileges.
-- ➢ Techs Involved - NodeJS | ExpressJS | ReactJS | React Native | MongoDB | Firebase | Moment.js | Postman | Git
+- Full-stack project for hotel room booking with ‘website’.
+- App should be responsive with the portrait mode and placed horizontally when in landscape mode.
+- Implemented CRUD(Create Read Update and Delete) operations on various collections such as bookings, users, etc of the database.
+- Rendered rooms ‘filtered’ on the basis of its availability during selected dates, keywords, etc.
+- Implemented user authentication and ACID properties in booking of room, transaction, etc.
+- Different levels of access for normal users and user granted admin privileges.
+- Techs Involved - NodeJS | ExpressJS | ReactJS | React Native | MongoDB | Firebase | Moment.js | Postman | Git
 
 
 ### High Level Design:
