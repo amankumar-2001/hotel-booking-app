@@ -35,11 +35,11 @@ Following are the screenshot of the application:
 - This is the landing page i.e first page.
 
 ### Login Page
-![alt text](./client/public/landingPicture.png)
+![alt text](./client/public/loginPicture.png)
 - This is the landing page i.e first page.
 
 ### Register Page
-![alt text](./client/public/landingPicture.png)
+![alt text](./client/public/registerPicture.png)
 - This is the landing page i.e first page.
 
 
