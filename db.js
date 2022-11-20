@@ -1,6 +1,6 @@
 const mongoose= require("mongoose");
 
-const mongoURL = require('./config/keys')
+const mongoURL = 'mongodb+srv://BLogram:sitaram@cluster0.o1nkced.mongodb.net/mern-rooms'
 
 mongoose.connect(mongoURL,{useUnifiedTopology : true , useNewUrlParser:true})
 
