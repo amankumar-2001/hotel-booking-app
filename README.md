@@ -7,7 +7,7 @@
 - Rendered rooms ‘filtered’ on the basis of its availability during selected dates, keywords, etc.
 - Implemented user authentication and ACID properties in booking of room, transaction, etc.
 - Different levels of access for normal users and user granted admin privileges.
-- Techs Involved - NodeJS | ExpressJS | ReactJS | React Native | MongoDB | Firebase | Moment.js | Postman | Git
+- Techs Involved - NodeJS | ExpressJS | ReactJS | MongoDB | Moment.js | Postman | Git
 
 
 
