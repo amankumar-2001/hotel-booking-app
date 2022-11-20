@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react'
+import React, { useState } from 'react'
 import axios from "axios";
 import Loader from "../components/Loader";
 import Error from "../components/Error";
@@ -24,7 +24,7 @@ function Registerscreen() {
             try {
                 setloading(true);
 
-                const result = await axios.post('/api/users/register', user).data;
+                await axios.post('/api/users/register', user).data;
 
                 setloading(false);
                 setsuccess(true);

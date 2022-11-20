@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { Tabs } from "antd";
 import axios from "axios";
-import Error from "../components/Error";
 import Loader from "../components/Loader";
 import Swal from "sweetalert2";
 
