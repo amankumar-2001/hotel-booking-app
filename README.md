@@ -33,12 +33,19 @@ Following are the screenshot of the application:
 
 ### Login Page
 ![alt text](./client/public/loginPage.png)
-- This is the login page i.e first page.
+- This is the login page.
 
 ### Register Page
 ![alt text](./client/public/registerPage.png)
-- This is the register page i.e first page.
+- This is the register page.
 
+### Home Page
+![alt text](./client/public/homePage.png)
+- This is the home page.
+
+### Admin Panel Page
+![alt text](./client/public/adminPanel.png)
+- This is the Admin Panel page which is only for admins only.
 
 ## How to Run the Application:
 
