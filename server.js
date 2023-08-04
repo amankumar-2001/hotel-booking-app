@@ -12,19 +12,8 @@ app.use('/api/rooms', roomsRoute)
 app.use('/api/users', usersRoute)
 app.use('/api/bookings', bookingsRoute) 
 
+const port = process.env.PORT || 5000;
 
-
-if(process.env.NODE_ENV=='production'){
-    const path = require('path')
-
-    app.get('/',(req,res)=>{
-        app.use(express.static(path.resolve(__dirname, 'client', 'build')))
-        res.sendFile(path.resolve(__dirname,'client','build','index.html'))
-    })
-}
-
-
-const port = process.env.PORT || 5001;
 app.listen(port, () => {
-    console.log('Server is started with nodemon')
+    console.log('Server is started with nodemon on:',port)
 });
