@@ -13,6 +13,9 @@ app.use('/api/users', usersRoute)
 app.use('/api/bookings', bookingsRoute) 
 
 const port = process.env.PORT || 5000;
+app.get('/',(req, res)=>{
+    res.send(`I'm ON`);
+});
 
 app.listen(port, () => {
     console.log('Server is started with nodemon on:',port)
